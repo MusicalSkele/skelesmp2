@@ -1,0 +1,13 @@
+name = "Impersonate"
+filename = "impersonate-2.4.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xBZuWXoj/versions/2.4.1/impersonate-2.4.1.jar"
+hash-format = "sha1"
+hash = "8bfa509bdac80cc5e053aadcb47241c5f0c1adce"
+
+[update]
+[update.modrinth]
+mod-id = "xBZuWXoj"
+version = "1Wdg0StG"

@@ -1,0 +1,13 @@
+name = "GroupChat"
+filename = "groupchat-1.2.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bv2JKLu9/versions/1.2.0/groupchat-1.2.0.jar"
+hash-format = "sha1"
+hash = "a00dc700fdd0f3c279caeada63d12b52af8c1d5b"
+
+[update]
+[update.modrinth]
+mod-id = "bv2JKLu9"
+version = "VFAhT1SS"

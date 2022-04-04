@@ -1,0 +1,13 @@
+name = "ItemFlexer"
+filename = "itemflexer-1.2.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pOYa13DM/versions/1.2.3/itemflexer-1.2.3.jar"
+hash-format = "sha1"
+hash = "cdb098daae4c392556dd048f74833077c84ecfad"
+
+[update]
+[update.modrinth]
+mod-id = "pOYa13DM"
+version = "p6WdlNS3"

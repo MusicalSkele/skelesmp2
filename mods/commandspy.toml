@@ -1,0 +1,13 @@
+name = "CommandSpy"
+filename = "commandspy-1.2.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4XnUc5Gr/versions/1.2.4/commandspy-1.2.4.jar"
+hash-format = "sha1"
+hash = "f96ed469c648dd9108a0e836c90efc5382f6782c"
+
+[update]
+[update.modrinth]
+mod-id = "4XnUc5Gr"
+version = "LVNt0URQ"

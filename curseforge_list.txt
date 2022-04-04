@@ -1,0 +1,15 @@
+https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin/
+https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+https://www.curseforge.com/minecraft/mc-mods/fabric-api
+https://www.curseforge.com/minecraft/mc-mods/carpet
+https://www.curseforge.com/minecraft/mc-mods/couplings
+https://www.curseforge.com/minecraft/mc-mods/yungs-api-fabric
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-dungeons-fabric
+https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-fabric
+https://www.curseforge.com/minecraft/mc-mods/yungs-extras-fabric
+https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric
+https://www.curseforge.com/minecraft/mc-mods/recipe-cache
+appleskin
+https://www.curseforge.com/minecraft/mc-mods/roughly-enough-resources
+https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items
+https://www.curseforge.com/minecraft/mc-mods/stoneholm-forge

@@ -1,0 +1,13 @@
+name = "BlockTuner"
+filename = "blocktuner-fabric-1.0.0-MC-1.18.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hqNdehAn/versions/1.0.0/blocktuner-fabric-1.0.0-MC-1.18.x.jar"
+hash-format = "sha1"
+hash = "8e7e9fa0a2aa10a9ccfc2ea43569a458dba9a2f8"
+
+[update]
+[update.modrinth]
+mod-id = "hqNdehAn"
+version = "yMNEbPw5"

@@ -1,0 +1,13 @@
+name = "YUNG's Better Dungeons (Fabric)"
+filename = "BetterDungeons-Fabric-1.18-1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3659/526/BetterDungeons-Fabric-1.18-1.0.jar"
+hash-format = "sha1"
+hash = "79b511afe9af8eef9fa2eb218dd66e277bd11a5b"
+
+[update]
+[update.curseforge]
+file-id = 3659526
+project-id = 525586

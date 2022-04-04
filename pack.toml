@@ -1,0 +1,16 @@
+name = "musicalskele server"
+author = "musicalskele"
+version = "0.0.1"
+pack-format = "packwiz:1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "447a6f6b9e7584499116c10c02bf7c6b7a34670a0b54c12b5475a17b55e4ec12"
+
+[versions]
+fabric = "0.13.3"
+minecraft = "1.18.1"
+
+[options]
+acceptable-game-versions = ["1.18"]

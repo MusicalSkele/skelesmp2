@@ -1,0 +1,340 @@
+hash-format = "sha256"
+
+[[files]]
+file = "curseforge_list.txt"
+hash = "2246c9a2f3d6a9077bf575b5911fb2f5ac81c378d095f10e14434979280c33e9"
+
+[[files]]
+file = "main.py"
+hash = "1269f521dad9556866d6484f993474a9c3017fcc3d399fee2e3914bc422766c2"
+
+[[files]]
+file = "modrinth_list.txt"
+hash = "de1c0563cfd935d5dce0c7767e5810ea62bbc0bfeb5ea6e3b81e667c23591203"
+
+[[files]]
+file = "mods/anti-xray.toml"
+hash = "44a4b302977f69559c4c15fa3280d3810f73360f3530ea55cd2e3c59d69d9825"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "bd22e94334b57cb037c7afe8e214199690ebb30959852492a492dd79a6a2e221"
+metafile = true
+
+[[files]]
+file = "mods/architectury-fabric.toml"
+hash = "24597ed5da62da4985ee5b0ffe665e5bddd328f60fcebdb488b69ff3e081992a"
+metafile = true
+
+[[files]]
+file = "mods/armorstandeditor.toml"
+hash = "2f29fad539a221dd4d1736aa96cc1a6c7575ce030a73e94d43b4dc9c397a7d4a"
+metafile = true
+
+[[files]]
+file = "mods/blocktuner.toml"
+hash = "50f54476859084eced569475c3f2b70b0e2027fb90b67a53c102963fba709280"
+metafile = true
+
+[[files]]
+file = "mods/cardboard.toml"
+hash = "35be9b50675ffaef042d04799a57425fab71ba8fda0ba1f7fbc2a0b7257fff98"
+metafile = true
+
+[[files]]
+file = "mods/carpet.toml"
+hash = "ea0a8a6a481068a1257e71b3702b8bd50139e17a90c64d80c800cef67fd58c5a"
+metafile = true
+
+[[files]]
+file = "mods/chunky.toml"
+hash = "28bb1d5f48456c9c78599e37c8c52e2a87fd30ef90bb7fcb1db24a6abd40d697"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.toml"
+hash = "010bc8378b59257708190728f5aee476d7415f47fc26567952f294eda6b0cd25"
+metafile = true
+
+[[files]]
+file = "mods/commandspy.toml"
+hash = "8b674104400641f55d0fc3a9bcbaa774de5b719d24404339b2a9f276408a0648"
+metafile = true
+
+[[files]]
+file = "mods/couplings.toml"
+hash = "4128591cf6f35dce8c576d03781b3bc540ea6053b216fb6f80627310c7498422"
+metafile = true
+
+[[files]]
+file = "mods/crops-love-rain.toml"
+hash = "cdbeeb56e330eddb26a960c6240d23ad602717b1e3844deb88660f284c5c15fa"
+metafile = true
+
+[[files]]
+file = "mods/easyauth.toml"
+hash = "caec1307b6cd377c6b0c09c8c67909b36de3ec2a032a2a2ac02de7b84417e210"
+metafile = true
+
+[[files]]
+file = "mods/easywhitelist.toml"
+hash = "7f594518563630a47e0b7af819a5a77ce0959b940fad5ddc7868a1b258373f22"
+metafile = true
+
+[[files]]
+file = "mods/expanded-axe-enchanting.toml"
+hash = "acf862d9adf5c93eead81b2ca67b9142cb6c7b5d79390d7b7c1a42b65f5892ae"
+metafile = true
+
+[[files]]
+file = "mods/expanded-trident-enchanting.toml"
+hash = "752c786da1c4fc881f73265dcc6e7cc15a1baa4964a611ce3ecaec6ea7dd0ac2"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.toml"
+hash = "d09e22b6960590df5462182e20545907bd89ae1f55ae48dfb1134ba5588572ba"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.toml"
+hash = "7dd17b9b9514e5dbd19d536d82721b13d7590268a29825d732d4d332b16a5886"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.toml"
+hash = "37df7db91df1acd004a32bafb8f8c3348d2ace1e9d07c49d2011fbbe7635881e"
+metafile = true
+
+[[files]]
+file = "mods/fallingtree.toml"
+hash = "7bd9c7e8fc06f1ea0c888a740bfce1446a89cbfcffb7ca8178867261cbb40f48"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore-fabric.toml"
+hash = "8d7622f19e93a5aa921e795c7818962912b548e3bac40d625298f5f45532ab22"
+metafile = true
+
+[[files]]
+file = "mods/frameless.toml"
+hash = "7c9d19853aa11ee65111dc2bad690f45da821e22b991e56024e7652b240f7986"
+metafile = true
+
+[[files]]
+file = "mods/groupchat.toml"
+hash = "e5f91567fa57b0e331a7d78ec15763fce55bf01d412579a002a4972b39f56fd5"
+metafile = true
+
+[[files]]
+file = "mods/headindex.toml"
+hash = "f1f6d13583f0b5b8fc45beb601d846147fcbd56be667bf1f5e4abb0ee861b9a3"
+metafile = true
+
+[[files]]
+file = "mods/htm.toml"
+hash = "c1b13e7d095c537f92d0e0551f5cacbfb8113629a8a53b5b6691294f1a32a4ac"
+metafile = true
+
+[[files]]
+file = "mods/impersonate.toml"
+hash = "6278c2485459da57e83758a1e1783168ed216740230a1dc08c08e0fe111a866f"
+metafile = true
+
+[[files]]
+file = "mods/invview.toml"
+hash = "ee41c9c64efe107921665a12ead3a7cce55242d7f7b65d8d661c07f2057342e6"
+metafile = true
+
+[[files]]
+file = "mods/itemflexer.toml"
+hash = "db68d492266da8b7f3232ca8fbccd9c1f81d830b335ae5bc0f12a5f488352769"
+metafile = true
+
+[[files]]
+file = "mods/krypton.toml"
+hash = "219d4425679c60fd2855a6a39a6fccb6db3948dcc57b9da7c20907c855c5bd3d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.toml"
+hash = "ea127e8f74006f3a9ce099f9e96adaa3b3f4f281231ece703c4e7f9732137ebd"
+metafile = true
+
+[[files]]
+file = "mods/ledger.toml"
+hash = "9747977c5279ee3cc1d15d7d469c849776c656b1182b2945114d1584f90f6c18"
+metafile = true
+
+[[files]]
+file = "mods/lithium.toml"
+hash = "4e0d26b8af24dbc7220b2708ab13ad9cf6646442e3ebccc6ceebdef152345656"
+metafile = true
+
+[[files]]
+file = "mods/minimotd.toml"
+hash = "ab1a1aedddee03952a598dbb26843530ab07a5c6edc1f44cb5e85fc994597ce2"
+metafile = true
+
+[[files]]
+file = "mods/recipe-cache.toml"
+hash = "85c32f965a5d59d4ce80d80f7a3e418e3f7453045342d06bfa22ed8094b311de"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-fabric.toml"
+hash = "368013cc5c1110a9a2be9e901a379cbe9911324d4db1293d283a4bdfa06ac05b"
+metafile = true
+
+[[files]]
+file = "mods/resetchunks.toml"
+hash = "ea6793e5d05d3bb904e336083b27a3cee1ebef50bf78589573c85b21ef0acfb1"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-items.toml"
+hash = "ee3187bfac3961c573a8e00edd0d2f69e66c4aeb9a65f203781ab1687e2d3856"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.toml"
+hash = "9c51dd2b58c2e58340ac042813309f6cc2b02b661be58a2ff5652824bdb45967"
+metafile = true
+
+[[files]]
+file = "mods/server-chat-history.toml"
+hash = "f8b457a2fff9cd235fa2b09e3d2cbc1a5568d6c1a5e581ff29dedcf96947ef22"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.toml"
+hash = "b3da8747fc6b95241203b8ccdaa88c28a10349db5675c7e3f76ffccc858da11c"
+metafile = true
+
+[[files]]
+file = "mods/smooth-boot.toml"
+hash = "5395f3c793c9d31347774b1a179c6287958df953f0bf9652b6953673f74e7e08"
+metafile = true
+
+[[files]]
+file = "mods/spark.toml"
+hash = "a76e869bbe7c1353fc2f472234a820927be2b576d768e019531d7effb86a5855"
+metafile = true
+
+[[files]]
+file = "mods/starlight.toml"
+hash = "86eb288d2bb2a2a49e64b1e7db4ca6a5f486b30a3566feaeeba1aa0a618ae255"
+metafile = true
+
+[[files]]
+file = "mods/styled-chat.toml"
+hash = "7c10e2599f25e36dab5f53cabbe3213082c853495b3dfc101a36b9dd7b9758b3"
+metafile = true
+
+[[files]]
+file = "mods/styled-nicknames.toml"
+hash = "2ff1e03f5bb7bfcb14687a8c0a9218306f68edd5d726833e7958ba83e64bcad1"
+metafile = true
+
+[[files]]
+file = "mods/styledplayerlist.toml"
+hash = "6df3f3a64d0499d11583b91741ff31f908e55c688958f039bf59d707161d56cc"
+metafile = true
+
+[[files]]
+file = "mods/universal-graves.toml"
+hash = "2fa8f5d724309f4025d654e7f1cc2716a8478941ea581b945472cb3d8138aa43"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.toml"
+hash = "d97477def358a3137f258f38d6f12db0a06fb7f66427ee772228c2f8a61bd1cf"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api-fabric.toml"
+hash = "ce05f69b0c02eeda34b3a31c780343c95fca2bcb77a03c3cb01dea5176022f12"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons-fabric.toml"
+hash = "7d92bb60636cb53106e4c8215817ecf99d34df5cb6e73151e235b2da55bc98d3"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts-fabric.toml"
+hash = "7ab0d7b5c45aff2de3107a92e10f429200dc35a731a4e84fa848b789ace23d32"
+metafile = true
+
+[[files]]
+file = "packwiz.md"
+hash = "e6ee645e7d3fddd13628130f52c0099548480751132e252bf244332ca9ea56d6"
+
+[[files]]
+file = "packwiz_curseforge.md"
+hash = "8e54f90c72a703d93c3134a70286b3bf0521eae1222d12be598ca00841859577"
+
+[[files]]
+file = "packwiz_curseforge_detect.md"
+hash = "e24f29e4ff838eb6b2705dc2f68aefb865d8356814bb7a930309305ae63a8273"
+
+[[files]]
+file = "packwiz_curseforge_export.md"
+hash = "6c26cc617d7ac386ded8341707c52e6ead8cf5a5bee7bf93ef79fdaf6daca32a"
+
+[[files]]
+file = "packwiz_curseforge_import.md"
+hash = "36575f932824f3e1a861c0956381b89b2cb87ed3c9fb6f70951bdc0362ea1f4f"
+
+[[files]]
+file = "packwiz_curseforge_install.md"
+hash = "e0677247d451fe4d5a452602723793cf9f5fcb7f8aeedbf571da367a0836bdd6"
+
+[[files]]
+file = "packwiz_curseforge_open.md"
+hash = "f56f49be451f45594ef9c50e90aec7bd7326481f469cd5aab103efadf5ad9eab"
+
+[[files]]
+file = "packwiz_init.md"
+hash = "0454e3eff8e4a5a3ac7484c967082773a2ea72ee57879a1ff14b32722a18eb56"
+
+[[files]]
+file = "packwiz_modrinth.md"
+hash = "742103c70db2637445e8c4fd3a90b554c7af8db0d2575427f132bbba1ff01bc6"
+
+[[files]]
+file = "packwiz_modrinth_export.md"
+hash = "15e73323bf1d79384bad80dbc4d4810e2645f0717e3e66e66fb7dbbbb2546101"
+
+[[files]]
+file = "packwiz_modrinth_install.md"
+hash = "b0222ad6f7259e823dac830b0024abdc6d557567896889b9bb1c582cd5f5f919"
+
+[[files]]
+file = "packwiz_refresh.md"
+hash = "03e2fa8ffbdcf6568d60ef3f808225b3558779abd5dd0affea5ca4fb64f135b8"
+
+[[files]]
+file = "packwiz_remove.md"
+hash = "1c3550c2b1ce7ce9ed4e972af4ee8f8b3edf0acd562dc2fe1401bfb6f4714563"
+
+[[files]]
+file = "packwiz_serve.md"
+hash = "381aafed3d17c7790897bf9be6972ad289f49f72819dd40cb8c9209bc0c9c04a"
+
+[[files]]
+file = "packwiz_update.md"
+hash = "f733c9b4b2e105349668f0c3a1ab07e79e2f234d5f18640c768f1432529e69f5"
+
+[[files]]
+file = "packwiz_utils.md"
+hash = "d0dd737648192a4bd0527884ffa09dbe077f1e5b41879bf78ff64ba193c7f0d6"
+
+[[files]]
+file = "packwiz_utils_completion.md"
+hash = "f39b0ea9f3a8f5cb8e9ce1205df7929c3dc2f21751ba8353aba310a245609918"
+
+[[files]]
+file = "packwiz_utils_markdown.md"
+hash = "2be8b3b683c5227681b8afa52e007e9d5414c7b2c60f4869a89cdee6c442d3d9"

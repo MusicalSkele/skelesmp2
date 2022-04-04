@@ -1,0 +1,13 @@
+name = "resetchunks"
+filename = "resetchunks-1.0.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/jGWcsOfJ/versions/1.0.0/resetchunks-1.0.0.jar"
+hash-format = "sha1"
+hash = "f782ef7e93f31e51eb0a51c90cfc8fbaf6798883"
+
+[update]
+[update.modrinth]
+mod-id = "jGWcsOfJ"
+version = "r6Ko5425"
